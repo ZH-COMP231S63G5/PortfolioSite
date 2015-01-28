@@ -1,2 +1,31 @@
-﻿body {
+﻿.carousel-indicators li {
+  background-color: #669966;
 }
+.carousel-indicators .active {
+  background-color: #FF7600;
+}
+b3 {
+    color: #ff7600;
+}
+p.p_description {
+    color: #669966;
+}
+.app_image {
+    opacity: 1;
+}
+.row-even {
+    background-color: #F9E596;
+}
+.row-odd {
+background-color:#0DFFD8;
+}
+.voffset  { margin-top: 2px; margin-bottom: 2px;}
+.voffset1 { margin-top: 5px; margin-bottom: 5px;}
+.voffset2 { margin-top: 10px; margin-bottom: 10px;}
+.voffset3 { margin-top: 15px; margin-bottom: 15px;}
+.voffset4 { margin-top: 30px;margin-bottom: 30px; }
+.voffset5 { margin-top: 40px; margin-bottom: 40px;}
+.voffset6 { margin-top: 60px; margin-bottom: 60px;}
+.voffset7 { margin-top: 80px; margin-bottom: 80px;}
+.voffset8 { margin-top: 100px; margin-bottom: 100px;}
+.voffset9 { margin-top: 150px; margin-bottom: 150px;}
