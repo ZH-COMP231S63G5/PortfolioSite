@@ -93,6 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="images\cv.docx" />
+    <Content Include="projects\Project1_Resturant_Map.zip" />
+    <Content Include="projects\Project2_Weather_Inquiry.zip" />
+    <Content Include="projects\Project3_Resturant_Order.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
